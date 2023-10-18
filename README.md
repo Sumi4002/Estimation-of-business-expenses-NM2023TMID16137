@@ -11,4 +11,4 @@ story 1 public link - https://public.tableau.com/views/ESTIMATIONOFBUSINESSEXPEN
 
 srory 2 public link - https://public.tableau.com/views/ESTIMATIONOFBUSINESSEXPENSESStory2/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
 
-video demonstration link- https://drive.google.com/uc?id=1wK0enMct2BSrudgqL_KL97STc656vWtM&export=download
+video demonstration link- https://drive.google.com/file/d/1wK0enMct2BSrudgqL_KL97STc656vWtM/view?usp=drivesdk
